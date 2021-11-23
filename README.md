@@ -15,3 +15,6 @@ Hello. This is Bob. O-\<
 Idk. Just fuck around and see what happens.
 
 ## Deployment
+
+## Copyright
+2021 Git Training
