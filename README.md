@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-Hello. This is Bob. O-\<
+Hello. This is Bob. O-|-<
 
 ## How to Contribute
 
