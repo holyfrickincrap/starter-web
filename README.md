@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work. This is my first reposit
 ## Purpose
 
 Sample website with plenty of files for demos. ADD MOAR TEXT
+And even more from the branch
 
 ## Introduction
 
